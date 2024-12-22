@@ -2,6 +2,16 @@
 
 A beautiful UI to upload your files to the S3 or S3 based buckets.
 
+## Demo
+
+[Demo](https://cdndemo.vercel.app)
+
+#### Credentials
+
+Username - `demo`
+
+Password - `cdndemo`
+
 ## Run Locally
 
 Clone the project
